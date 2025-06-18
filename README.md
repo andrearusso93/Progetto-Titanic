@@ -1,5 +1,6 @@
 # Progetto-Titanic
 Descrizione del Progetto
+
 Il progetto Titanic riguarda l'analisi di un dataset contenente informazioni sui passeggeri del Titanic, inclusi dati come sesso, classe, età e se sono sopravvissuti o meno. L'analisi si concentra sulla comprensione dei pattern relativi alla sopravvivenza dei passeggeri, con particolare attenzione a fattori come il sesso e la classe di viaggio. Il progetto utilizza diverse tecniche di analisi dei dati, tra cui la creazione di visualizzazioni, l'analisi delle correlazioni, e l'addestramento di modelli di machine learning per predire la sopravvivenza dei passeggeri.
 
 Fasi dell'analisi
